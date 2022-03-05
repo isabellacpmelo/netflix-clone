@@ -24,29 +24,34 @@ header .container{
 }
 
 header .logo{
-    margin-top: 3px;
-    margin-bottom: 3px;
-    margin-left: 3px;
-    color: var(--vermelho);
-    font-family: 'Bebas Neue', Times;
-    font-size: 40px;
+    margin-top: none;
+    margin-bottom: none;
+    margin-left: 1%;
 }
 
 header nav a{
     text-decoration: none;
     color: #AAA;
-    margin-right: 10px;
+    margin-right: 30px;
 }
 
 header nav a:hover{
     color: #fff;
 }
 
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    color: inherit;
+}
+
 /*Filme Principal*/
 .filme-principal{
     font-size: 16px;
-    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0.50)100%), url('../img/capa-blinders2.jpg');
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0.50)100%), url('../img/filme-principal.jpg');
     
+    width: auto;
     height: 500px;
     background-size: cover;
 
@@ -57,13 +62,13 @@ header nav a:hover{
 }
 
 .filme-principal .descricao {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
 .filme-principal .titulo{
-    margin-top: 15%;
-    font-size: 40px;
+    margin-top: 10%;
+    font-size: 30px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
@@ -86,7 +91,7 @@ header nav a:hover{
 }
 
 .botao i{
-    margin-right: 8px;
+    margin-right: 10px;
 }
 
 .container{
@@ -98,11 +103,11 @@ header nav a:hover{
 }
 
 .box-filme{
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
     display: block;
 }
 
 .carrosel-filmes{
-    margin-top: 5px;
+    margin-top: 10px;
 }
