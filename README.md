@@ -3,15 +3,21 @@ Projeto desenvolvido na plataforma DIO, com o objetivo de recriar a interface pr
 
 Clique <a href="https://isabellacpmelo.github.io/netflix-clone/">aqui</a> para acessar o projeto.
 
+<a href="https://isabellacpmelo.github.io/netflix-clone/"> <img width="400" src="assets/img/clone-netflix.gif">
+
 ## Ferramentas utilizadas:
 * HTML5
 * CSS3
 * JavaScript
 * JQuery
-* Ícones foram aproveitados do site: [Font Awesomene](https://fontawesome.com/)
+* [Font Awesomene](https://fontawesome.com/)
 
 
-# Futuras Atualizações
-- Adicionar Gif com link do projeto
-- Adicionar prints
+## Print do Projeto
+
+### Filme Principal
+<img width="400" src="assets/img/print1.png">
+  
+### Carrosel de Filmes
+<img width="400" src="assets/img/print2.png">
 
